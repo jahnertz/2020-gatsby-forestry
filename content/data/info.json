@@ -1,10 +1,11 @@
 {
-  "description": "<p>XX XX (Pronounced 'Twenty-Twenty') is a club and events venue in Makati, Manila.</p>",
-  "cta": "<p></p>",
+  "description": "<p>XX XX is a club and events venue in Makati, Manila.</p>",
+  "cta": "<p>Inquiries via <a href=\"facebook.com/2020manila\" title=\"\">facebook</a></p>",
   "contact": {
     "email": "info@20-20.asia",
     "twitter_handle": "2020manila",
+    "facebook_handle": "2020manila",
     "github_handle": ""
   },
-  "background_color": "#B1BCBC"
+  "background_color": "#0A2B2B"
 }
