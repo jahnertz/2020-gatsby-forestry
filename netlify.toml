@@ -1,0 +1,6 @@
+[[redirects]]
+    from = "/"
+    to = "https://facebook.com/2020manila"
+    status = 301
+    force = true
+    query = {path = ":path"}
